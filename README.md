@@ -4,3 +4,4 @@ To run the app execute:
 ```
 streamlit run main.py
 ```
+! Requires *Google Oauth*
